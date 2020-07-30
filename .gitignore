@@ -3,3 +3,6 @@
 ################################################################################
 
 /.vs
+/BasicAzureTest/bin/Debug/net461
+/BasicAzureTest/obj/Debug/net461
+/BasicAzureTest/obj
